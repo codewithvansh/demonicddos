@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os,sys,time
 from DDos import checkUrl,DDos
 from cfonts import render,say
